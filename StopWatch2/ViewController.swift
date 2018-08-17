@@ -79,7 +79,7 @@ class ViewController: NSViewController {
             
             // set up file path:
             print("this happens")
-            let fileName = "Test"
+            let fileName = "time"
             let DocumentDirURL = try! FileManager.default.url(for: .documentDirectory, in: .userDomainMask, appropriateFor: nil, create: true)
             let fileURL = DocumentDirURL.appendingPathComponent(fileName).appendingPathExtension("txt")
 //            let fileURL = Bundle.main.path(forResource: "time", ofType: "txt")
