@@ -8,7 +8,7 @@ https://youtu.be/UPDV8Qzzjh4</p>
 
 <h2>How to use?</h2>
 <p>Step 1. Open the app first. The app will generate a file path for the text file, which is called "time.txt".</p>
-<p>Step 4. In OBS, create a new source "Text (FreeType 2)" for the current time.</p>
+<p>Step 2. In OBS, create a new source "Text (FreeType 2)" for the current time.</p>
 <p>Step 3. Select "Read from file".</p>
 <p>Step 4. Click "Browse". Go to your home directory (you can do that by click on your username in the sidebar).</p>
 <p>Step 5. Search for "Test.txt". Select this file.</p>
@@ -34,7 +34,7 @@ https://youtu.be/UPDV8Qzzjh4</p>
 <p>I also made a plugin for OBS, OBSLyricsBud, that can help you display song lyrics or captions in your live stream. You can control the lyrics/subtitles by simply pressing buttons for the next/previous sentence.</p>
 
 <h2>Current Version</h2>
-<p>1.0 Beta1</p>
+<p>1.0 Beta 1</p>
 
 <h2>Feedback</h2>
 <p>If you have any question or advice, please email me by junshutedliu@gmail.com.</p>
